@@ -1,0 +1,6 @@
+RISKS:
+
+1. User explosion -> increase processing power or number of machines (scale up & out)
+2. Android API changes -> update the app as soon as possible, inform the users that the app is currently in maintenance or down.
+3. Third-party OAuth API changes -> update the app as soon as possible, the same strategy as the previous risk.
+4. Stores are refusing to make a partnership -> ??
